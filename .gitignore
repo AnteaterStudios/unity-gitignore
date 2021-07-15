@@ -71,4 +71,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-# MANUAL INSERTED IGNORED FILES
+# MANUALLY INSERTED IGNORED FILES & FOLDERS
+*.lock
